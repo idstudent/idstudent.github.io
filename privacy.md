@@ -35,7 +35,7 @@
 이메일: sm1374@naver.com
 
 Privacy Policy (English)
-'kkeut-끝' (the 'App') values your privacy and complies with the Personal Information Protection Act.
+'kkeut-끝' (hereinafter referred to as the 'App') values your privacy and complies with the Personal Information Protection Act.
 
 1. Information We Collect
 Device Information: Advertising ID, OS version.
